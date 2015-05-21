@@ -1,0 +1,32 @@
+p{margin: 10px;}
+
+body
+{font-family: sans-serif;
+background-color: gray;
+padding: 20px 10px;
+max-width: 1000px;
+margin: auto;
+}
+
+h1{text-align: center;
+	background-color: #00FFFF;
+	border-radius: 20px;
+
+
+}
+
+h5{
+	text-align: center;
+}
+
+h2{
+	background-color: blue;
+	border-radius: 20px;
+	padding: 10px 10px;	
+}
+
+.stage1work1, .worksession2{
+	background-color: #c0c0c0;
+	border-radius: 20px;
+}
+
